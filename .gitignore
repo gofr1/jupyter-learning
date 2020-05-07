@@ -1,0 +1,9 @@
+.env
+*.zip
+*.txt
+*.bak
+*.log
+*.jpg
+*.db
+*.sqlite
+*.npy
