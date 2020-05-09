@@ -7,3 +7,5 @@
 *.db
 *.sqlite
 *.npy
+*.dly
+weather/getweather.py
