@@ -11,3 +11,4 @@
 *.csv
 weather/getweather.py
 *.pdf
+*.gz
