@@ -13,3 +13,4 @@ weather/getweather.py
 *.pdf
 *.gz
 .ipynb_checkpoints
+*.png
